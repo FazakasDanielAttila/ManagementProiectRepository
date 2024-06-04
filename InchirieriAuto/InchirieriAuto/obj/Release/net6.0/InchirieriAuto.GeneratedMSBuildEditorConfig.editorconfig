@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InchirieriAuto
+build_property.RootNamespace = InchirieriAuto
+build_property.ProjectDir = D:\Master STIA\Anul I\Anul I-Sem I\Modul II\Tehnologii moderne in programare\Fazakas Daniel Attila anul I STIA\InchirieriAuto\InchirieriAuto\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Master STIA\Anul I\Anul I-Sem I\Modul II\Tehnologii moderne in programare\Fazakas Daniel Attila anul I STIA\InchirieriAuto\InchirieriAuto
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Agentie/AgentieDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRpZVxBZ2VudGllRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Agentie/CreateAgentie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRpZVxDcmVhdGVBZ2VudGllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Agentie/DeleteAgentie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRpZVxEZWxldGVBZ2VudGllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Agentie/DetailsAgentie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRpZVxEZXRhaWxzQWdlbnRpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Agentie/EditAgentie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRpZVxFZGl0QWdlbnRpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Agentie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbnRpZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Angajati/AngajatiDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5nYWphdGlcQW5nYWphdGlEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Angajati/CreateAngajati.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5nYWphdGlcQ3JlYXRlQW5nYWphdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Angajati/DeleteAngajati.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5nYWphdGlcRGVsZXRlQW5nYWphdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Angajati/EditAngajati.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5nYWphdGlcRWRpdEFuZ2FqYXRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Angajati/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5nYWphdGlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Autovehicule/AutovehiculeDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3ZlaGljdWxlXEF1dG92ZWhpY3VsZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Autovehicule/CreateAutovehicule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3ZlaGljdWxlXENyZWF0ZUF1dG92ZWhpY3VsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Autovehicule/DeleteAutovehicule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3ZlaGljdWxlXERlbGV0ZUF1dG92ZWhpY3VsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Autovehicule/EditAutovehicule.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3ZlaGljdWxlXEVkaXRBdXRvdmVoaWN1bGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Autovehicule/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3ZlaGljdWxlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Clienti/ClientiDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aVxDbGllbnRpRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Clienti/CreateClienti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aVxDcmVhdGVDbGllbnRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Clienti/DeleteClienti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aVxEZWxldGVDbGllbnRpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Clienti/EditClienti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aVxFZGl0Q2xpZW50aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Clienti/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50aVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/DetaliiAuto/CreateDetaliiAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxpaUF1dG9cQ3JlYXRlRGV0YWxpaUF1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/DetaliiAuto/DeleteDetaliiAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxpaUF1dG9cRGVsZXRlRGV0YWxpaUF1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/DetaliiAuto/DetailsDetaliiAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxpaUF1dG9cRGV0YWlsc0RldGFsaWlBdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/DetaliiAuto/EditDetaliiAuto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxpaUF1dG9cRWRpdERldGFsaWlBdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/DetaliiAuto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxpaUF1dG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Rezervare/CreateRezervare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ2YXJlXENyZWF0ZVJlemVydmFyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Rezervare/DeleteRezervare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ2YXJlXERlbGV0ZVJlemVydmFyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Rezervare/EditRezervare.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ2YXJlXEVkaXRSZXplcnZhcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Rezervare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ2YXJlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Rezervare/RezervareDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV6ZXJ2YXJlXFJlemVydmFyZURldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Master STIA/Anul I/Anul I-Sem I/Modul II/Tehnologii moderne in programare/Fazakas Daniel Attila anul I STIA/InchirieriAuto/InchirieriAuto/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-96paue7z0f
